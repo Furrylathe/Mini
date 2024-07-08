@@ -21,7 +21,7 @@ conda activate mental_health_ai
 ```
 
 ### Step 3: Install Dependencies
-Install the required packages using pip:
+Install the dependencies in the environment only. Install the required packages using pip:
 ```sh
 pip install numpy pandas scikit-learn tensorflow torch torchvision torchaudio
 ```
